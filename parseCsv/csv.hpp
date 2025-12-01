@@ -1,5 +1,5 @@
-#ifndef CSV_H
-#define CSV_H
+#ifndef CSV_HPP
+#define CSV_HPP
 
 #include <vector>
 #include <string>
