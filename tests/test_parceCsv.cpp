@@ -1,5 +1,5 @@
 #include <iostream>
-#include "csv.h"
+#include "csv.hpp"
 
 int main() {
     TableData data = parseCsvNoHeaders("test.csv");
